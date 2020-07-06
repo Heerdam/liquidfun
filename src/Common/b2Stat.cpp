@@ -15,7 +15,7 @@
 * misrepresented as being the original software.
 * 3. This notice may not be removed or altered from any source distribution.
 */
-#include "b2Stat.h"
+#include "liquidfun/Common/b2Stat.h"
 
 #include <algorithm>
 #include <cfloat>

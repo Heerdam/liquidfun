@@ -18,7 +18,7 @@
 #ifndef B2_STACK_QUEUE
 #define B2_STACK_QUEUE
 
-#include <Box2D/Common/b2StackAllocator.h>
+#include <liquidfun/Common/b2StackAllocator.h>
 
 template <typename T>
 class b2StackQueue

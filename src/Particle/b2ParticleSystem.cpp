@@ -15,18 +15,18 @@
 * misrepresented as being the original software.
 * 3. This notice may not be removed or altered from any source distribution.
 */
-#include <Box2D/Particle/b2ParticleSystem.h>
-#include <Box2D/Particle/b2ParticleGroup.h>
-#include <Box2D/Particle/b2VoronoiDiagram.h>
-#include <Box2D/Particle/b2ParticleAssembly.h>
-#include <Box2D/Common/b2BlockAllocator.h>
-#include <Box2D/Dynamics/b2World.h>
-#include <Box2D/Dynamics/b2WorldCallbacks.h>
-#include <Box2D/Dynamics/b2Body.h>
-#include <Box2D/Dynamics/b2Fixture.h>
-#include <Box2D/Collision/Shapes/b2Shape.h>
-#include <Box2D/Collision/Shapes/b2EdgeShape.h>
-#include <Box2D/Collision/Shapes/b2ChainShape.h>
+#include <liquidfun/Particle/b2ParticleSystem.h>
+#include <liquidfun/Particle/b2ParticleGroup.h>
+#include <liquidfun/Particle/b2VoronoiDiagram.h>
+#include <liquidfun/Particle/b2ParticleAssembly.h>
+#include <liquidfun/Common/b2BlockAllocator.h>
+#include <liquidfun/Dynamics/b2World.h>
+#include <liquidfun/Dynamics/b2WorldCallbacks.h>
+#include <liquidfun/Dynamics/b2Body.h>
+#include <liquidfun/Dynamics/b2Fixture.h>
+#include <liquidfun/Collision/Shapes/b2Shape.h>
+#include <liquidfun/Collision/Shapes/b2EdgeShape.h>
+#include <liquidfun/Collision/Shapes/b2ChainShape.h>
 #include <algorithm>
 
 // Define LIQUIDFUN_SIMD_TEST_VS_REFERENCE to run both SIMD and reference

@@ -18,8 +18,8 @@
 #ifndef B2_PARTICLE_ASSEMBLY_H
 #define B2_PARTICLE_ASSEMBLY_H
 
-#include <Box2D/Common/b2GrowableBuffer.h>
-#include <Box2D/Common/b2Math.h>
+#include <liquidfun/Common/b2GrowableBuffer.h>
+#include <liquidfun/Common/b2Math.h>
 
 
 struct b2ParticleContact;

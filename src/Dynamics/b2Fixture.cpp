@@ -16,16 +16,16 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include <Box2D/Dynamics/b2Fixture.h>
-#include <Box2D/Dynamics/Contacts/b2Contact.h>
-#include <Box2D/Dynamics/b2World.h>
-#include <Box2D/Collision/Shapes/b2CircleShape.h>
-#include <Box2D/Collision/Shapes/b2EdgeShape.h>
-#include <Box2D/Collision/Shapes/b2PolygonShape.h>
-#include <Box2D/Collision/Shapes/b2ChainShape.h>
-#include <Box2D/Collision/b2BroadPhase.h>
-#include <Box2D/Collision/b2Collision.h>
-#include <Box2D/Common/b2BlockAllocator.h>
+#include <liquidfun/Dynamics/b2Fixture.h>
+#include <liquidfun/Dynamics/Contacts/b2Contact.h>
+#include <liquidfun/Dynamics/b2World.h>
+#include <liquidfun/Collision/Shapes/b2CircleShape.h>
+#include <liquidfun/Collision/Shapes/b2EdgeShape.h>
+#include <liquidfun/Collision/Shapes/b2PolygonShape.h>
+#include <liquidfun/Collision/Shapes/b2ChainShape.h>
+#include <liquidfun/Collision/b2BroadPhase.h>
+#include <liquidfun/Collision/b2Collision.h>
+#include <liquidfun/Common/b2BlockAllocator.h>
 
 b2Fixture::b2Fixture()
 {

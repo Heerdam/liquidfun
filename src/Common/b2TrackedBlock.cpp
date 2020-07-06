@@ -16,7 +16,7 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include <Box2D/Common/b2TrackedBlock.h>
+#include <liquidfun/Common/b2TrackedBlock.h>
 #include <stddef.h>
 #include <stdint.h>
 #include <new>

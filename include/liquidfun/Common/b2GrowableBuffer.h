@@ -18,7 +18,7 @@
 #ifndef B2_GROWABLE_BUFFER_H
 #define B2_GROWABLE_BUFFER_H
 
-#include <Box2D/Common/b2BlockAllocator.h>
+#include <liquidfun/Common/b2BlockAllocator.h>
 #include <string.h>
 #include <memory.h>
 #include <algorithm>

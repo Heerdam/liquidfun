@@ -18,7 +18,7 @@
 #ifndef B2_STAT
 #define B2_STAT
 
-#include <Box2D/Common/b2Settings.h>
+#include <liquidfun/Common/b2Settings.h>
 
 /// Calculates min/max/mean of a set of samples
 class b2Stat

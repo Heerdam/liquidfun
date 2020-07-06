@@ -18,7 +18,7 @@
 #ifndef B2_INTRUSIVE_LIST
 #define B2_INTRUSIVE_LIST
 
-#include <Box2D/Common/b2Settings.h>
+#include <liquidfun/Common/b2Settings.h>
 
 // Whether to enable b2IntrusiveList::ValidateList().
 // Be careful when enabling this since this changes the size of

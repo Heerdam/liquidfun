@@ -20,13 +20,13 @@
 #ifndef B2_WORLD_H
 #define B2_WORLD_H
 
-#include <Box2D/Common/b2Math.h>
-#include <Box2D/Common/b2BlockAllocator.h>
-#include <Box2D/Common/b2StackAllocator.h>
-#include <Box2D/Dynamics/b2ContactManager.h>
-#include <Box2D/Dynamics/b2WorldCallbacks.h>
-#include <Box2D/Dynamics/b2TimeStep.h>
-#include <Box2D/Particle/b2ParticleSystem.h>
+#include <liquidfun/Common/b2Math.h>
+#include <liquidfun/Common/b2BlockAllocator.h>
+#include <liquidfun/Common/b2StackAllocator.h>
+#include <liquidfun/Dynamics/b2ContactManager.h>
+#include <liquidfun/Dynamics/b2WorldCallbacks.h>
+#include <liquidfun/Dynamics/b2TimeStep.h>
+#include <liquidfun/Particle/b2ParticleSystem.h>
 
 struct b2AABB;
 struct b2BodyDef;
